@@ -1,8 +1,4 @@
-## Hi there 👋
-
-<!--
-**YoungbokCHOI/YoungbokCHOI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+## 🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱
 I'm Korean.
 I am a programmer on the verge of retirement.
 I started programming in 1994, and can use languages ​​such as C, C#, Java, PHP, ASP, Visual Basic 6.0, VB .NET, and HTML, 
@@ -19,6 +15,12 @@ ANSI SQL로 된 모든 DB를 사용할 수 있으며, HIVE같은 BIG Data도 개
 경력중 20년은 DW를 이용한 은행, 보험, 유통회사의 대형 프로젝트에 참여했습니다.
 최근에는 은퇴후 주식 배당금 관련한 공부중에 Pine Script를 만나게 되었고, 
 최근 공부중에 있습니다.
+👋
+
+<!--
+**YoungbokCHOI/YoungbokCHOI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
